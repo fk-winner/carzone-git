@@ -1,0 +1,1169 @@
+[
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GTB",
+        "state": "TX",
+        "city": "Ustin",
+        "color": "White",
+        "model": "488 GTB",
+        "year": 2017,
+        "condition": "Used",
+        "price": 40000,
+        "description": "<p>La&nbsp;<strong>Ferrari 488 GTB</strong>&nbsp;est une&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Voiture_de_sport\" title=\"Voiture de sport\">voiture de sport</a>&nbsp;du&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Constructeur_automobile\" title=\"Constructeur automobile\">constructeur</a>&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Italie\" title=\"Italie\">italien</a>&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Ferrari_(entreprise)\" title=\"Ferrari (entreprise)\">Ferrari</a>&nbsp;commercialis&eacute;e &agrave; partir de 2015. C&#39;est la premi&egrave;re voiture de la marque &agrave;&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Moteur_V8\" title=\"Moteur V8\">moteur V8</a>&nbsp;double turbo en position centrale arri&egrave;re depuis la&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Ferrari_F40\" title=\"Ferrari F40\">F40</a>. Elle a &eacute;t&eacute; d&eacute;voil&eacute;e &agrave; la presse le 3 f&eacute;vrier 2015<a href=\"https://fr.wikipedia.org/wiki/Ferrari_488_GTB#cite_note-mot1-1\">1.</a></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><a href=\"https://fr.wikipedia.org/wiki/Ferrari_488_GTB#cite_note-mot1-1\">L&#39;appellation de la 488 rompt avec celle de la 458 Italia (mais aussi des berlinettes qui ont pr&eacute;c&eacute;d&eacute; cette derni&egrave;re) dont le chiffre &laquo;&nbsp;458&nbsp;&raquo; signifiait une cylindr&eacute;e de&nbsp;4,5&nbsp;litres et huit cylindres. Cette fois-ci, le &laquo;&nbsp;488&nbsp;&raquo; indique le volume d&#39;un cylindre en cm3, qui multipli&eacute; par 8 donne bien&nbsp;3,9&nbsp;L, l&#39;appellation &quot;GTB&quot; signifiant &laquo;&nbsp;Gran Turismo Berlinetta&nbsp;&raquo;.</a></p>\r\n\r\n<p><a href=\"https://fr.wikipedia.org/wiki/Ferrari_488_GTB#cite_note-mot1-1\">Une version d&eacute;capotable appel&eacute;e&nbsp;<strong>488 Spider</strong>&nbsp;est pr&eacute;sent&eacute;e lors du&nbsp;</a><a href=\"https://fr.wikipedia.org/wiki/Salon_de_l%27automobile_de_Francfort\" title=\"Salon de l'automobile de Francfort\">Salon de Francfort 2015</a>.</p>",
+        "car_photo": "photos/2021/03/28/1902536891.jpg",
+        "car_photo_1": "photos/2021/03/28/1902536917.jpg",
+        "car_photo_2": "photos/2021/03/28/1902537043.jpg",
+        "car_photo_3": "photos/2021/03/28/1902537077.jpg",
+        "car_photo_4": "photos/2021/03/28/1902537082.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Reversing Camera,Wind Deflector,Bluetooth Handset",
+        "body_style": "Sport",
+        "engine": "3.4L Mid-Engine V6",
+        "interior": "Grey",
+        "miles": 10000,
+        "doors": "3",
+        "passengers": 2,
+        "vin_no": "WP0AB2E81EK11788547",
+        "milage": 5,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2021-03-28T16:29:58Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2017 Ford Edge",
+        "state": "TX",
+        "city": "Dallas",
+        "color": "Black",
+        "model": "Edge",
+        "year": 2017,
+        "condition": "Used",
+        "price": 25000,
+        "description": "<p>Le&nbsp;<strong>Ford Edge</strong>&nbsp;est un crossover de la marque am&eacute;ricaine&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Ford\" title=\"Ford\">Ford</a>, produit depuis octobre 2006. Il est le premier repr&eacute;sentant du segment des&nbsp;<a href=\"https://fr.wikipedia.org/wiki/V%C3%A9hicule_utilitaire_sport#Crossover_/_Multi-segments\" title=\"Véhicule utilitaire sport\">crossovers</a>dans la gamme de Ford.</p>",
+        "car_photo": "photos/2021/03/28/1901478607_o8RHL11.jpg",
+        "car_photo_1": "photos/2021/03/28/1901478618_KUKGP4m.jpg",
+        "car_photo_2": "photos/2021/03/28/1901478646_bjnPDhA.jpg",
+        "car_photo_3": "photos/2021/03/28/1901478672_8qU7Vju.jpg",
+        "car_photo_4": "photos/2021/03/28/1901478687_eTMg486.jpg",
+        "features": "Audio Interface,ParkAssist,Reversing Camera,Auto Start/Stop,Wind Deflector",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V7",
+        "interior": "grey",
+        "miles": 15000,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "WP0ATYHK1788547",
+        "milage": 8,
+        "fuel_type": "Petrol",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2021-03-28T16:52:41Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "2017 Ford F-250 Super Duty",
+        "state": "NY",
+        "city": "Ohio",
+        "color": "Black",
+        "model": "F-250",
+        "year": 2017,
+        "condition": "Used",
+        "price": 30000,
+        "description": "<p>Le&nbsp;<strong>Ford F-Series</strong>&nbsp;est une gamme am&eacute;ricaine de mod&egrave;les de&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Pick-up\" title=\"Pick-up\">pick-up</a>&nbsp;de la soci&eacute;t&eacute;&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Ford\" title=\"Ford\">Ford Motor Company</a>, vendue pendant plus de cinq d&eacute;cennies. Le mod&egrave;le le plus populaire de la F-S&eacute;rie est le&nbsp;<strong>F-150</strong>. Il est le v&eacute;hicule le plus vendu dans le monde pendant 23&nbsp;ans et le pick-up le plus vendu aux&nbsp;<a href=\"https://fr.wikipedia.org/wiki/%C3%89tats-Unis\" title=\"États-Unis\">&Eacute;tats-Unis</a>&nbsp;et au Canada pendant 28 ans. Les analystes estiment que les seuls F-Series composent la moiti&eacute; des b&eacute;n&eacute;fices Ford ces derni&egrave;res ann&eacute;es.</p>\r\n\r\n<p>Il existe treize g&eacute;n&eacute;rations de Ford F-Series.</p>",
+        "car_photo": "photos/2021/03/28/1894300905.jpg",
+        "car_photo_1": "photos/2021/03/28/1894300894.jpg",
+        "car_photo_2": "photos/2021/03/28/1894300920.jpg",
+        "car_photo_3": "photos/2021/03/28/1900155012.jpg",
+        "car_photo_4": "photos/2021/03/28/1900155133.jpg",
+        "features": "Cruise Control,Airbags,Power Steering,Reversing Camera,Auto Start/Stop",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V7",
+        "interior": "Grey",
+        "miles": 13000,
+        "doors": "3",
+        "passengers": 2,
+        "vin_no": "WP0THYE81EK1178853",
+        "milage": 10,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": false,
+        "created_date": "2021-03-28T16:58:56Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "2017 Jaguar F-PACE",
+        "state": "TX",
+        "city": "Austin",
+        "color": "Green",
+        "model": "F-PACE",
+        "year": 2017,
+        "condition": "Used",
+        "price": 50000,
+        "description": "<p>La&nbsp;<strong>F-Pace</strong>&nbsp;est un&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Sport_Utility_Vehicle\" title=\"Sport Utility Vehicle\">SUV</a>&nbsp;commercialis&eacute; &agrave; partir de&nbsp;<a href=\"https://fr.wikipedia.org/wiki/2015\" title=\"2015\">2015</a>&nbsp;par le&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Constructeur_automobile\" title=\"Constructeur automobile\">constructeur automobile</a>&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Royaume-Uni\" title=\"Royaume-Uni\">britannique</a><a href=\"https://fr.wikipedia.org/wiki/Jaguar_(automobile)\" title=\"Jaguar (automobile)\">Jaguar</a>. Il s&#39;agit du premier SUV de la marque. Elle est &eacute;lue &laquo;&nbsp;World Car of the Year&nbsp;2017&nbsp;&raquo; (Voiture mondiale de l&#39;ann&eacute;e 2017) &agrave; l&#39;occasion du&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Salon_de_l%27automobile_de_New_York\" title=\"Salon de l'automobile de New York\">salon de New York</a>&nbsp;en&nbsp;mars 2017</p>",
+        "car_photo": "photos/2021/03/28/1902932503.jpg",
+        "car_photo_1": "photos/2021/03/28/1902932514.jpg",
+        "car_photo_2": "photos/2021/03/28/1902932528.jpg",
+        "car_photo_3": "photos/2021/03/28/1902932542.jpg",
+        "car_photo_4": "photos/2021/03/28/1902932503_hDDQ6hd.jpg",
+        "features": "Air Conditioning,Alarm System,Reversing Camera,Auto Start/Stop,Wind Deflector,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V4",
+        "interior": "Black",
+        "miles": 12500,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "WP0ATYHK178854722",
+        "milage": 7,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2021-03-28T17:04:35Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "car_title": "2018 Toyota 4Runner",
+        "state": "NY",
+        "city": "Ohio",
+        "color": "Grey",
+        "model": "4Runner",
+        "year": 2018,
+        "condition": "Used",
+        "price": 50000,
+        "description": "<p>Le&nbsp;<strong>Toyota 4-Runner</strong>&nbsp;est un&nbsp;<a href=\"https://fr.wikipedia.org/wiki/V%C3%A9hicule_utilitaire_sport\" title=\"Véhicule utilitaire sport\">v&eacute;hicule utilitaire sport</a>&nbsp;fabriqu&eacute; par&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Toyota_(entreprise)\" title=\"Toyota (entreprise)\">Toyota</a>&nbsp;et vendu partout dans le monde depuis 1984, qui a connu cinq g&eacute;n&eacute;rations. Il est n&eacute;anmoins &eacute;quip&eacute; d&#39;une boite de transfert avec 2 roues motrices (propulsion) longues, 4 roues motrices longues et 4 roues motrices courtes. Au&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Japon\" title=\"Japon\">Japon</a>, il est commercialis&eacute; sous le nom de&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Toyota_Hilux_Surf\" title=\"Toyota Hilux Surf\">Toyota Hilux Surf</a>. Le 4-Runner &eacute;tait &agrave; l&#39;origine un SUV compact un peu plus gros qu&#39;un pick-up Toyota avec une coque en fibre de verre sur la benne, mais le mod&egrave;le a depuis subi un d&eacute;veloppement significatif devenant un croisement entre un v&eacute;hicule de taille moyenne et un gros SUV. Il est bas&eacute; sur la plateforme du&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Toyota_Hilux\" title=\"Toyota Hilux\">Toyota Hilux</a>, puis du&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Toyota_Tacoma\" title=\"Toyota Tacoma\">Toyota Tacoma</a>. En Europe, il est remplac&eacute; en&nbsp;<a href=\"https://fr.wikipedia.org/wiki/1994\" title=\"1994\">1994</a>&nbsp;par le&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Toyota_RAV4\" title=\"Toyota RAV4\">Toyota RAV4</a>&nbsp;pour la seconde g&eacute;n&eacute;ration, tandis que pour les autres march&eacute;s sa commercialisation est poursuivie.</p>",
+        "car_photo": "photos/2021/03/28/1893633875.jpg",
+        "car_photo_1": "photos/2021/03/28/1893633879.jpg",
+        "car_photo_2": "photos/2021/03/28/1893633884.jpg",
+        "car_photo_3": "photos/2021/03/28/1896836883.jpg",
+        "car_photo_4": "photos/2021/03/28/1896836887.jpg",
+        "features": "Airbags,Air Conditioning,Seat Heating,ParkAssist,Power Steering,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V7",
+        "interior": "Grey",
+        "miles": 12000,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "WP0ATYHK178854722A",
+        "milage": 8,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": false,
+        "created_date": "2021-03-28T17:09:33Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 6,
+    "fields": {
+        "car_title": "2018 Toyota Corolla",
+        "state": "TX",
+        "city": "Austin",
+        "color": "White",
+        "model": "Corolla",
+        "year": 2018,
+        "condition": "Used",
+        "price": 50000,
+        "description": "<p>La&nbsp;<strong>Toyota Corolla</strong>&nbsp;est une voiture compacte produite par la marque automobile&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Japonaise\" title=\"Japonaise\">japonaise</a>&nbsp;<a href=\"https://fr.wikipedia.org/wiki/Toyota_(entreprise)\" title=\"Toyota (entreprise)\">Toyota</a>depuis&nbsp;<a href=\"https://fr.wikipedia.org/wiki/1966\" title=\"1966\">1966</a>. Elle constitue le coeur de gamme de la marque et est pr&eacute;sente sur tous les continents.</p>\r\n\r\n<p>Au fil de ses douze g&eacute;n&eacute;rations et des multiples d&eacute;clinaisons, la Corolla est la voiture la plus vendue au monde avec 47,5 millions de mod&egrave;les vendus &agrave;&nbsp;juillet 2019<a href=\"https://fr.wikipedia.org/wiki/Toyota_Corolla#cite_note-1\">1.</a></p>\r\n\r\n<p><a href=\"https://fr.wikipedia.org/wiki/Toyota_Corolla#cite_note-1\">De 1968 &agrave; 2002, Toyota a produit un mod&egrave;le similaire &agrave; la Corolla, sous le nom de&nbsp;</a><a href=\"https://fr.wikipedia.org/wiki/Toyota_Sprinter\" title=\"Toyota Sprinter\">Sprinter</a>, uniquement au Japon.</p>\r\n\r\n<p>Toyota a d&eacute;velopp&eacute; au cours des ann&eacute;es des d&eacute;clinaisons sp&eacute;cifiques afin d&#39;adapter son offre au march&eacute;&nbsp;: berline 4p avec des &eacute;l&eacute;ments de carrosserie diff&eacute;rents en Am&eacute;rique du Nord ou en Asie, monospace en Europe.</p>",
+        "car_photo": "photos/2021/03/29/1900893299.jpg",
+        "car_photo_1": "photos/2021/03/29/1900893311.jpg",
+        "car_photo_2": "photos/2021/03/29/1900893319.jpg",
+        "car_photo_3": "photos/2021/03/29/1900893329.jpg",
+        "car_photo_4": "photos/2021/03/29/1900893391.jpg",
+        "features": "Cruise Control,Audio Interface,Air Conditioning,Alarm System,Power Steering,Direct Fuel Injection,Wind Deflector,Bluetooth Handset",
+        "body_style": "Sport",
+        "engine": "3.4L Mid-Engine V7",
+        "interior": "Grey",
+        "miles": 10000,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "WP0AB2E81EK117845",
+        "milage": 5,
+        "fuel_type": "Petrol",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2021-03-29T13:07:09Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 1,
+    "fields": {
+        "firt_name": "Fabrice",
+        "last_name": "WINNER",
+        "designation": "Founder",
+        "photo": "photos/2021/03/27/avatar-13.jpg",
+        "facebook_link": "https://www.facebook.com",
+        "tweeter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2021-03-27T12:12:47.690Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "firt_name": "Martin",
+        "last_name": "Smith",
+        "designation": "Creative Director",
+        "photo": "photos/2021/03/27/avatar-11.jpg",
+        "facebook_link": "https://www.facebook.com",
+        "tweeter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2021-03-27T12:38:50.486Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "firt_name": "Stone",
+        "last_name": "Carolyn",
+        "designation": "Web Developer",
+        "photo": "photos/2021/03/27/avatar-4.jpg",
+        "facebook_link": "https://www.facebook.com",
+        "tweeter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2021-03-27T12:41:13.847Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "firt_name": "Brandon",
+        "last_name": "Miller",
+        "designation": "Co-founder",
+        "photo": "photos/2021/03/27/avatar-1.jpg",
+        "facebook_link": "https://www.facebook.com",
+        "tweeter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2021-03-27T12:42:23.742Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "firt_name": "Michelle",
+        "last_name": "Nelson",
+        "designation": "Support Manager",
+        "photo": "photos/2021/03/27/avatar-12_g43xioX.jpg",
+        "facebook_link": "https://www.facebook.com",
+        "tweeter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_date": "2021-03-27T12:45:39.980Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 1,
+    "fields": {
+        "first_name": "Fabrice",
+        "last_name": "WINNER",
+        "car_id": 4,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Jaguar F-PACE",
+        "city": "Austin",
+        "state": "Texas",
+        "email": "fabio.kouatche@gmail.com",
+        "phone": "98455548823",
+        "message": "cool",
+        "user_id": 4,
+        "create_date": "2021-04-03T14:52:11.595Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 2,
+    "fields": {
+        "first_name": "Winner",
+        "last_name": "Winner",
+        "car_id": 6,
+        "customer_need": "I'd like to test drive this",
+        "car_title": "2018 Toyota Corolla",
+        "city": "Austin",
+        "state": "Texas",
+        "email": "win@gmail.com",
+        "phone": "774400333992",
+        "message": "I want to test drive this",
+        "user_id": 4,
+        "create_date": "2021-04-03T15:01:29.815Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 3,
+    "fields": {
+        "first_name": "Fabrice",
+        "last_name": "WINNER",
+        "car_id": 4,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Jaguar F-PACE",
+        "city": "Austin",
+        "state": "Texas",
+        "email": "fabio.kouatche@gmail.com",
+        "phone": "847734094",
+        "message": "cool",
+        "user_id": 1,
+        "create_date": "2021-04-03T16:02:27.098Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 4,
+    "fields": {
+        "first_name": "Fabrice",
+        "last_name": "WINNER",
+        "car_id": 2,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ford Edge",
+        "city": "Austin",
+        "state": "Texas",
+        "email": "fabio.kouatche@gmail.com",
+        "phone": "424849849529",
+        "message": "Test",
+        "user_id": 1,
+        "create_date": "2021-04-03T16:34:17.988Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$216000$ecnq3e3kCJyV$3f/ivRXnBNVDT0mWzJZTmtMCTzClBkIx2YYGoizAxAs=",
+        "last_login": "2021-04-03T17:18:23.610Z",
+        "is_superuser": true,
+        "username": "fkouatche",
+        "first_name": "Fabrice",
+        "last_name": "WINNER",
+        "email": "fabio.kouatche@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-03-27T11:28:48Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "123",
+        "last_login": "2021-04-01T14:00:39Z",
+        "is_superuser": false,
+        "username": "fwinner",
+        "first_name": "Fabrice",
+        "last_name": "Win",
+        "email": "fwinner@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-04-01T14:00:39Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!rpWifDusHegmj6sEDhjHEiwYXFqllQe7KJmS3TPa",
+        "last_login": "2021-04-02T06:59:04.795Z",
+        "is_superuser": false,
+        "username": "fabrice",
+        "first_name": "Fabrice",
+        "last_name": "Winner",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-04-02T06:56:49.345Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!fYAI0ujN25ocIdHNU04hRRmsCkL9zA2HXIWx3zEZ",
+        "last_login": "2021-04-03T11:40:39.236Z",
+        "is_superuser": false,
+        "username": "hack",
+        "first_name": "Hack",
+        "last_name": "learning",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-04-02T07:29:26.363Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "2erm32xeioa4ygg5x9ru3b4remhwydzp",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGlm7suMPJT1niOzdNQ4gR4qTCnF3iJQC2jcz76XGtK113Los48TqrFCdfrec6CFtB3xP7TZrmtu6TFnvij5o19eZ5Xk53L-Dmnr91mIxCgA7i4YGG0JE8FgiQHDGOEzsArCIGdCRz4aAyKMlLkxDKlG9P7I6N2w:1lRyFp:ir1u7bhOJVxoV6LwYzJ_w25_GkLXT1P44mQioS5GuZY",
+        "expire_date": "2021-04-15T14:25:01.033Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "46xi4nmij8eg3a8d4r9ktufuriv3wnkv",
+    "fields": {
+        "session_data": "eyJzb2NpYWxhY2NvdW50X3N0YXRlIjpbeyJwcm9jZXNzIjoibG9naW4iLCJzY29wZSI6IiIsImF1dGhfcGFyYW1zIjoiIn0sIjEyeHJMNzl3REN1MiJdfQ:1lSEAi:1ze3MSAevjwR5eygQU0MsmhZAVNdqh6ThuJlfdGFL6o",
+        "expire_date": "2021-04-16T07:24:48.903Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "ahnptmpqov3agt5psg6goy0vx3q3qcoe",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGlm7suMPJT1niOzdNQ4gR4qTCnF3iJQC2jcz76XGtK113Los48TqrFCdfrec6CFtB3xP7TZrmtu6TFnvij5o19eZ5Xk53L-Dmnr91mIxCgA7i4YGG0JE8FgiQHDGOEzsArCIGdCRz4aAyKMlLkxDKlG9P7I6N2w:1lRAyB:46eWAkDeVLx5OLHtYwTAHIEiJHerdkS8wWObroOM51I",
+        "expire_date": "2021-04-13T09:47:31.962Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "qeclq5w3s38tu4e0iaqpxzbo90s7yfex",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGlm7suMPJT1niOzdNQ4gR4qTCnF3iJQC2jcz76XGtK113Los48TqrFCdfrec6CFtB3xP7TZrmtu6TFnvij5o19eZ5Xk53L-Dmnr91mIxCgA7i4YGG0JE8FgiQHDGOEzsArCIGdCRz4aAyKMlLkxDKlG9P7I6N2w:1lRB2a:qirmxXF1TAFfXABk3OQIzKjzxF2Ut-zTVitG3PPnZ0k",
+        "expire_date": "2021-04-13T09:52:04.038Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "yjsbyxl8r1diqb8s8od9yz1s5i456mi0",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGlm7suMPJT1niOzdNQ4gR4qTCnF3iJQC2jcz76XGtK113Los48TqrFCdfrec6CFtB3xP7TZrmtu6TFnvij5o19eZ5Xk53L-Dmnr91mIxCgA7i4YGG0JE8FgiQHDGOEzsArCIGdCRz4aAyKMlLkxDKlG9P7I6N2w:1lShwY:uVBGOOKUoQ4WkRbBqYK7KRSyc8egCD4lo74_4atVCgM",
+        "expire_date": "2021-04-17T15:12:10.140Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "Facebook",
+        "client_id": "850610982536531",
+        "secret": "a8409ae3b456a97804f15bf8cf8ce02f",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "google",
+        "name": "Google Login",
+        "client_id": "396811252476-s19ecrdhgpq5codre8s8rs44b5u8hogr.apps.googleusercontent.com",
+        "secret": "dONY2L4LVy6PBwvQoZ4w1ihO",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "fabrice"
+        ],
+        "provider": "facebook",
+        "uid": "2151474864989039",
+        "last_login": "2021-04-02T06:59:04.735Z",
+        "date_joined": "2021-04-02T06:56:49.364Z",
+        "extra_data": "{\"id\": \"2151474864989039\", \"name\": \"Fabrice Winner\", \"first_name\": \"Fabrice\", \"last_name\": \"Winner\"}"
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "hack"
+        ],
+        "provider": "google",
+        "uid": "103306569336762936134",
+        "last_login": "2021-04-03T11:40:39.165Z",
+        "date_joined": "2021-04-02T07:29:26.423Z",
+        "extra_data": "{\"id\": \"103306569336762936134\", \"name\": \"Hack learning\", \"given_name\": \"Hack\", \"family_name\": \"learning\", \"picture\": \"https://lh3.googleusercontent.com/-JPaWG7s_OpY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck_TXXKGxyWN74FK6OPiK6Doi7wqg/s96-c/photo.jpg\", \"locale\": \"fr\"}"
+    }
+},
+{
+    "model": "socialaccount.socialtoken",
+    "pk": 1,
+    "fields": {
+        "app": 1,
+        "account": 1,
+        "token": "EAAMFoE10xVMBADTxOs9ttZByRnkZCZAsrWpwW1KfsW136ASyyxggYmwwbeL7ZCwbVnZBfP2D6Ri9ZAG2PdbGJSRepiBZCjZC8sl2nIsWn3KZCaFMGUzcjihvHLplWwwduFDZBVbQnKMkO8TjWNk5hIwciGyj6GvgpKvE7dsnZALOHTqlQZDZD",
+        "token_secret": "",
+        "expires_at": "2021-06-01T06:56:46.214Z"
+    }
+},
+{
+    "model": "socialaccount.socialtoken",
+    "pk": 2,
+    "fields": {
+        "app": 2,
+        "account": 2,
+        "token": "ya29.a0AfH6SMB3ibt_TPWss-15UIF1cOod4kMAaRTji0u0RTW0etqEgmvdM6SdetYIpDnMlPnMritnj--bx1eQ7KWPvtSKfBp-exA12Cpu_WlwqYzPY--3TT6O35yB_KbdJuljAGP9EZIB-VBXAjoSXhZT87ra1Lqy7A",
+        "token_secret": "",
+        "expires_at": "2021-04-03T12:40:37.767Z"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2021-03-27T11:32:04.328Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "fkouatche",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2021-03-27T12:12:47.774Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Team object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2021-03-27T12:33:22.618Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Fabrice",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2021-03-27T12:36:30.544Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Fabrice",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2021-03-27T12:38:50.488Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Martin",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2021-03-27T12:39:00.483Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Fabrice",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Designation\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2021-03-27T12:41:13.849Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Stone",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2021-03-27T12:42:23.743Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Brandon",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2021-03-27T12:43:13.481Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Brandon",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Designation\", \"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2021-03-27T12:45:39.982Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Michelle",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2021-03-27T12:46:20.625Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Brandon",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2021-03-27T13:06:04.009Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Fabrice",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2021-03-28T16:38:28.183Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Car object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2021-03-28T16:58:22.226Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "Car object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2021-03-28T17:04:04.533Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Car object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2021-03-28T17:08:56.717Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Car object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2021-03-28T17:12:20.742Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "Car object (5)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2021-03-28T17:35:12.656Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2021-03-28T17:35:16.385Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2021-03-28T18:32:55.342Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2021-03-28T18:33:05.263Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "2017 Ford Edge",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2021-03-29T06:48:20.559Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2021-03-29T13:12:16.848Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2021-03-29T14:06:51.754Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2021-03-29T14:07:39.825Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2021-03-30T09:59:43.240Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2021-03-30T09:59:43.428Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2021-04-02T06:47:16.577Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2021-04-02T06:48:28.846Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8080",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2021-04-02T06:49:06.657Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2021-04-02T07:21:17.359Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2021-04-03T15:10:18.308Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "2",
+        "object_repr": "fwinner",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Staff status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2021-04-03T15:11:12.668Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "2",
+        "object_repr": "fwinner",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"User permissions\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2021-04-03T15:11:41.889Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "2",
+        "object_repr": "fwinner",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"User permissions\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2021-04-03T16:37:06.032Z",
+        "user": [
+            "fkouatche"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "2",
+        "object_repr": "fwinner",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Staff status\"]}}]"
+    }
+}
+]
